@@ -1,16 +1,7 @@
 [![Adarsh gupta](https://miro.medium.com/fit/c/96/96/1*t-ya5MdH4ALyrJ-TMnWneQ.png)
 
-](https://adarsh-gupta.medium.com/?source=post_page-----18319669dade--------------------------------)[Adarsh gupta](https://adarsh-gupta.medium.com/?source=post_page-----18319669dade--------------------------------)[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F4323d7b9f6b1&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fthe-complete-javascript-guide-18319669dade&user=Adarsh+gupta&userId=4323d7b9f6b1&source=post_page-4323d7b9f6b1----18319669dade---------------------follow_byline-----------)
 
-Oct 30
 
-·6 min read
-
-[
-
-Save
-
-](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F18319669dade&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fthe-complete-javascript-guide-18319669dade&source=--------------------------bookmark_header-----------)
 
 The Complete JavaScript Guide
 =============================
@@ -216,74 +207,3 @@ This guide took several hours to create, and several resources have been referen
 Follow me, [Adarsh gupta](https://medium.com/u/4323d7b9f6b1?source=post_page-----18319669dade--------------------------------) on Medium as well as on Twitter (@[Adarsh\_\_\_\_gupta](http://twitter.com/adarsh____gupta)).
 
 [If you wish, you can support me b](https://www.buymeacoffee.com/Adarshgupta)y [buying me a Chai.](https://www.buymeacoffee.com/Adarshgupta)
-
-Go composable: Build apps faster like Lego
-==========================================
-
-[](https://bit.cloud)
-
-[**Bit**](https://bit.cloud) is an open-source tool for building apps in a modular and collaborative way. Go composable to ship faster, more consistently, and easily scale.
-
-**→** [Learn more](https://bit.dev)
-
-Build apps, pages, user-experiences and UIs as standalone components. Use them to compose new apps and experiences faster. Bring any framework and tool into your workflow. Share, reuse, and collaborate to build together.
-
-Help your team with:
-
-**→** [**Micro-Frontends**](https://medium.com/how-we-build-micro-front-ends-d3eeeac0acfc)
-
-**→** [**Design Systems**](https://medium.com/how-we-build-our-design-system-15713a1f1833)
-
-**→** [**Code-Sharing and reuse**](https://bit.cloud/blog/how-to-reuse-react-components-across-your-projects-l4pz83f4)
-
-**→** [**Monorepos**](https://www.youtube.com/watch?v=5wxyDLXRho4&t=2041s)
-
-Learn more
-==========
-
-[
-
-How We Build Micro Frontends
-----------------------------
-
-### Building micro-frontends to speed up and scale our web development process.
-
-blog.bitsrc.io
-
-](https://medium.com/how-we-build-micro-front-ends-d3eeeac0acfc)[
-
-How we Build a Component Design System
---------------------------------------
-
-### Building a design system with components to standardize and scale our UI development process.
-
-blog.bitsrc.io
-
-](https://medium.com/how-we-build-our-design-system-15713a1f1833)[
-
-How to reuse React components across your projects
---------------------------------------------------
-
-### Finally, you completed the task of creating a fantastic input field for the newsletter in your app. You are happy with…
-
-bit.cloud
-
-](https://bit.cloud/blog/how-to-reuse-react-components-across-your-projects-l3bhezsg)[
-
-5 Ways to Build a React Monorepo
---------------------------------
-
-### Build a production-grade React monorepo: From fast builds to code-sharing and dependencies.
-
-blog.bitsrc.io
-
-](https://medium.com/5-ways-to-build-a-react-monorepo-a294b6c5b0ac)[
-
-How to Create a Composable React App with Bit
----------------------------------------------
-
-### In this guide, you’ll learn how to build and deploy a full-blown composable React application with Bit. Building a…
-
-bit.cloud
-
-](https://bit.cloud/blog/how-to-create-a-composable-react-app-with-bit-l7ejpfhc)

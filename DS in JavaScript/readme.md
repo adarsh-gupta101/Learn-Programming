@@ -1,16 +1,7 @@
 [![Adarsh gupta](https://miro.medium.com/fit/c/96/96/1*t-ya5MdH4ALyrJ-TMnWneQ.png)
 
-](https://adarsh-gupta.medium.com/?source=post_page-----bf8916532329--------------------------------)[Adarsh gupta](https://adarsh-gupta.medium.com/?source=post_page-----bf8916532329--------------------------------)[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F4323d7b9f6b1&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fimplementation-of-data-structures-in-javascript-bf8916532329&user=Adarsh+gupta&userId=4323d7b9f6b1&source=post_page-4323d7b9f6b1----bf8916532329---------------------follow_byline-----------)
-
-Dec 3
-
-·9 min read
-
-[
-
-Save
-
-](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbf8916532329&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fimplementation-of-data-structures-in-javascript-bf8916532329&source=--------------------------bookmark_header-----------)
+Adarsh gupta
+9 Min read
 
 Implementation of Data Structures in JavaScript
 ===============================================
@@ -549,78 +540,3 @@ We have checked the most used data structures and their implementation in JavaSc
 Follow [Adarsh gupta](https://medium.com/u/4323d7b9f6b1?source=post_page-----bf8916532329--------------------------------) for more and follow me on [Twitter](http://twitter.com/@Adarsh____gupta) as well.
 
 You can support my work by giving a tip(since medium doesn’t pay Indian folks l like me).
-
-Build apps with reusable components like Lego
-=============================================
-
-[](https://bit.cloud)
-
-[**Bit**](https://bit.cloud)**’s open-source tool** help 250,000+ devs to build apps with components.
-
-Turn any UI, feature, or page into a **reusable component** — and share it across your applications. It’s easier to collaborate and build faster.
-
-**→** [**Learn more**](https://bit.dev)
-
-Split apps into components to make app development easier, and enjoy the best experience for the workflows you want:
-
-→ [Micro-Frontends](https://medium.com/how-we-build-micro-front-ends-d3eeeac0acfc)
-----------------------------------------------------------------------------------
-
-→ [Design System](https://medium.com/how-we-build-our-design-system-15713a1f1833)
----------------------------------------------------------------------------------
-
-→ [Code-Sharing and reuse](https://bit.cloud/blog/how-to-reuse-react-components-across-your-projects-l4pz83f4)
---------------------------------------------------------------------------------------------------------------
-
-→ [Monorepo](https://www.youtube.com/watch?v=5wxyDLXRho4&t=2041s)
------------------------------------------------------------------
-
-Learn more
-==========
-
-[
-
-How We Build Micro Frontends
-----------------------------
-
-### Building micro-frontends to speed up and scale our web development process.
-
-blog.bitsrc.io
-
-](https://medium.com/how-we-build-micro-front-ends-d3eeeac0acfc)[
-
-How we Build a Component Design System
---------------------------------------
-
-### Building a design system with components to standardize and scale our UI development process.
-
-blog.bitsrc.io
-
-](https://medium.com/how-we-build-our-design-system-15713a1f1833)[
-
-How to reuse React components across your projects
---------------------------------------------------
-
-### Finally, you completed the task of creating a fantastic input field for the newsletter in your app. You are happy with…
-
-bit.cloud
-
-](https://bit.cloud/blog/how-to-reuse-react-components-across-your-projects-l3bhezsg)[
-
-5 Ways to Build a React Monorepo
---------------------------------
-
-### Build a production-grade React monorepo: From fast builds to code-sharing and dependencies.
-
-blog.bitsrc.io
-
-](https://medium.com/5-ways-to-build-a-react-monorepo-a294b6c5b0ac)[
-
-How to Create a Composable React App with Bit
----------------------------------------------
-
-### In this guide, you’ll learn how to build and deploy a full-blown composable React application with Bit. Building a…
-
-bit.cloud
-
-](https://bit.cloud/blog/how-to-create-a-composable-react-app-with-bit-l7ejpfhc)
